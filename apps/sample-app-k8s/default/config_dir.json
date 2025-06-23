@@ -1,0 +1,13 @@
+{
+  "appName": "sample-app-k8s",
+  "userGivenName": "sample-app-k8s",
+  "destNamespace": "default",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": ".",
+  "srcRepoURL": "https://github.com/ClouDevTech/sample-app-k8s.git",
+  "srcTargetRevision": "",
+  "labels": null,
+  "annotations": null,
+  "exclude": "",
+  "include": ""
+}
